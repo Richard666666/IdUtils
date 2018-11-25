@@ -4,6 +4,7 @@
 如何使用：
 
 @Autowired
+
 private Sid sid;
 
 String userId=sid.nextShort();
